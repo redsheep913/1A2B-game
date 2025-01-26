@@ -1,4 +1,4 @@
-# 1A2B Number Guessing Game
+# 🧃1A2B Number Guessing Game
 
 ### Game Description
 * Classic number reasoning game where players guess a 4-digit number with unique digits
